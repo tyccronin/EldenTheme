@@ -3,6 +3,21 @@
     "displayName": "EldenTheme",
     "description": "Elden Ring theme for VSCode",
     "version": "0.0.1",
+    "publisher": "TyCronin",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/tyccronin/eldentheme"
+	},
+	"keywords": [
+		"theme",
+		"dark theme",
+		"elden ring",
+		"fromsoftware",
+		"dark souls",
+		"gaming",
+		"elden theme",
+		"earth tones"
+	],
     "engines": {
         "vscode": "^1.67.0"
     },
