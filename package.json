@@ -4,6 +4,7 @@
     "description": "Elden Ring theme for VSCode",
     "version": "0.0.1",
     "publisher": "TyCronin",
+    "icon": "img/icon.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/tyccronin/eldentheme"
